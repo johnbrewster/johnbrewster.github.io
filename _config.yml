@@ -1,7 +1,7 @@
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 
-title_tag_text: Solo, a Jekyll Theme
-h1_tag_text: Solo
+title_tag_text: John Brewster Architect
+h1_tag_text: John Brewster Architect
 
 exclude: ["Procfile", "Gruntfile.js", "README.md", "package.json", "CNAME", "node_modules"]
