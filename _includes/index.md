@@ -27,7 +27,7 @@ Here is a list of some of the services I can provide.
 
 The office is normally open weekdays between 9:00am and 5:00pm, but I am usually available outwith these times and at weekends to meet with clients and discuss projects, whenever it suits, in my office or at their home or place of work.
 
-If you would like to discuss your particular project, please call, send an e-mail, or use the webform below. I look forward to working with you to realise your projects.
+If you would like to discuss your particular project, please call or send an e-mail. I look forward to working with you to realise your projects.
 
 * Tel/fax: 01307 820273
 * Mobile: 07767 227606
