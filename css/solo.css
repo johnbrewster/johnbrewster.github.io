@@ -14,6 +14,7 @@ html {
 body {
   margin: 2rem 0 5rem;
   color: #333;
+  background: url("background.png");
 }
 
 @media (min-width: 36rem) {
@@ -48,7 +49,7 @@ h1 {
 @media (min-width: 36rem) {
   h1 {
     font-size: 2.6rem;
-    margin-bottom: 3rem;
+    margin-bottom: 2rem;
   }
 }
 
@@ -57,16 +58,19 @@ h1 a {
 }
 
 h2 {
-  margin-top: 2rem;
+  margin-top: 0.5rem;
   font-size: 1rem;
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.5rem;
 }
 
 @media (min-width: 36rem) {
   h2 {
-    margin-top: 2.5rem;
+    margin-top: 0.5rem;
     font-size: 1.1rem;
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
+  }
+  h2:nth-of-type(3n) {
+    margin-bottom: 1.5rem;
   }
 }
 
@@ -146,4 +150,9 @@ code {
   max-width: 36rem;
   margin: 0 auto;
   padding: 0 1rem;
+}
+
+small {
+  font-size: 0.7rem;
+  text-align: center;
 }
