@@ -1,7 +1,7 @@
 ----
 [01307 820273](tel:01307820273) and [07767 227606](tel:07767227606)
 ------------------------------------------------------------------------
-[brewster@btinternet.com](mailto:brester@btinternet.com)
+[brewster@btinternet.com](mailto:brewster@btinternet.com)
 ----------------------------------------------------------------
 Kirkholm, Kirkton of Kinnettles, Forfar, DD8 1TQ
 ------------------------------------------------
@@ -16,7 +16,7 @@ The intention is always to create satisfied clients by providing them with reali
 
 Professional planning, management and support for all the phases of your building project.
 
-Here is a list of some of the services I can provide.
+Here is a list of some of the services I can provide:
 
 * feasibility studies
 * customised design planning
@@ -41,12 +41,13 @@ If you would like to discuss your particular project, please call or send an e-m
 
 ----
 
-Contact
--------
-
-* Tel: [01307 820273](tel:01307820273) and [07767 227606](tel:07767227606)
-* E-mail: [brewster@btinternet.com](mailto:brester@btinternet.com)
-* Kirkholm, Kirkton of Kinnettles, Forfar, DD8 1TQ
+----
+[01307 820273](tel:01307820273) and [07767 227606](tel:07767227606)
+------------------------------------------------------------------------
+[brewster@btinternet.com](mailto:brewster@btinternet.com)
+----------------------------------------------------------------
+Kirkholm, Kirkton of Kinnettles, Forfar, DD8 1TQ
+------------------------------------------------
 
 ----
 <small>Site by [WebNetTech](http://webnette.ch)</small>
