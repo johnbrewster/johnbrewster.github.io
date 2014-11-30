@@ -161,16 +161,28 @@ small {
   text-align: center;
 }
 
-#sidebar-wrapper ul {
+#sidebar ul {
+  text-align: center;
   list-style: none;
 } 
 
-#sidebar-wrapper li {
+#sidebar li {
   display: inline;
+  padding-left: 1em;
+  padding-right: 1em;
 } 
 
 @media (min-width: 36rem) {
+  #sidebar ul {
+    display: inline-block;
+    
+  }
   #sidebar-wrapper li {
     display: list-item;
-}
+  }
+  
+  #main {
+    display: inline-block;
+    max-width: 80%;
+  }
 }
