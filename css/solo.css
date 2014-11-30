@@ -170,5 +170,7 @@ small {
 } 
 
 @media (min-width: 36rem) {
+  #sidebar-wrapper li {
     display: list-item;
+}
 }
