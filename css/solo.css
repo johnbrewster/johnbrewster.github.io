@@ -156,3 +156,7 @@ small {
   font-size: 0.7rem;
   text-align: center;
 }
+
+.sidebar-wrapper ul {
+  list-style: none;
+} 
