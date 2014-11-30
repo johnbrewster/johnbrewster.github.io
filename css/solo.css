@@ -164,3 +164,11 @@ small {
 #sidebar-wrapper ul {
   list-style: none;
 } 
+
+#sidebar-wrapper li {
+  display: inline;
+} 
+
+@media (min-width: 36rem) {
+    display: list-item;
+}
