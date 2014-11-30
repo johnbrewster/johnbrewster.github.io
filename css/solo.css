@@ -28,6 +28,10 @@ a {
   text-decoration: none;
 }
 
+#site-title {
+ text-align: center; 
+}
+}
 a:hover, a:focus {
   text-decoration: underline;
 }
