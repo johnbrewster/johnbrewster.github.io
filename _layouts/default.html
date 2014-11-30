@@ -12,11 +12,11 @@
 {% include head.html %}
 </head>
 <body>
- <!-- Sidebar -->
 
   <div class="container">
     <img src="./header.png">
     <h1 id="site-title"><a href="./">{{ site.h1_tag_text }}</a></h1>
+    
   <div id="sidebar-wrapper">
     <ul class="sidebar-nav">
       <li><a href="{{ site.baseurl }}/about.html">About</a></li>
@@ -25,7 +25,9 @@
       <li><a href="{{ site.baseurl }}/contact.html">Contact</a></li>
     </ul>
   </div>
+  <div id="main">
     {{ content }}
+    </div>
   </div>
 {% include scripts.html %}
 </body>
