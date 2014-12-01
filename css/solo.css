@@ -175,9 +175,8 @@ small {
 @media (min-width: 36rem) {
   #sidebar ul {
     display: inline-block;
-    
   }
-  #sidebar-wrapper li {
+  #sidebar li {
     display: list-item;
   }
   
