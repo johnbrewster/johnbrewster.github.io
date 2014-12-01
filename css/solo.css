@@ -172,6 +172,10 @@ small {
   padding-right: 1em;
 } 
 
+#main {
+  font-size: 0.8em;
+}
+
 @media (min-width: 53rem) {
   #sidebar {
     display: inline-block;
@@ -187,6 +191,6 @@ small {
   
   #main {
     display: inline-block;
-    max-width: 80%;
+    max-width: 78%;
   }
 }
