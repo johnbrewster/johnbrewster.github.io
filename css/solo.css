@@ -172,7 +172,7 @@ small {
   padding-right: 1em;
 } 
 
-@media (min-width: 52rem) {
+@media (min-width: 53rem) {
   #sidebar {
     display: inline-block;
     vertical-align: top;
