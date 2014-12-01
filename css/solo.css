@@ -172,8 +172,13 @@ small {
   padding-right: 1em;
 } 
 
-@media (min-width: 36rem) {
+@media (min-width: 32rem) {
+  #sidebar {
+    display: inline-block;
+    vertical-align: top;
+  }
   #sidebar ul {
+    text-align: left;
     display: inline-block;
   }
   #sidebar li {
