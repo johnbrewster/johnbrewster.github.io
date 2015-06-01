@@ -2,9 +2,6 @@
 layout: default
 ---
 
-Services
---------
-
 I provide a wide range of services, from informal initial discussions and recommendations right through to completed developments. I can supply professional planning, management and support for all the phases of your building project.
 
 These are some of the services I can provide:
