@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About The Practice
+permalink: "/about/"
 ---
 I have over 30 years’ experience in providing successful projects for clients throughout Scotland. From small domestic works, to larger new build houses and residential schemes, as well as a wide range of commercial projects, I am experienced in a range of building solutions, including traditional home construction as well as timber framed and SIPs methods. I also have a proven record of successful negotiations, dealing with difficult or complex planning matters.
 
