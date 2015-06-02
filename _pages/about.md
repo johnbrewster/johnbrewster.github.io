@@ -1,10 +1,13 @@
 ---
 permalink: "/about/"
 layout: default
-title: About The Practice
+title: About John
 ---
-I have over 30 years’ experience in providing successful projects for clients throughout Scotland. From small domestic works, to larger new build houses and residential schemes, as well as a wide range of commercial projects, I am experienced in a range of building solutions, including traditional home construction as well as timber framed and SIPs methods. I also have a proven record of successful negotiations, dealing with difficult or complex planning matters.
+Born and brought up at Bandirran, the family dairy farm near Ceres, Fife. This was also home to a successful stud of Clydesdale horses. John was educated at Ceres Primary then Bell Baxter High School in Cupar, before studying Architecture at Duncan of Jordanstone College of Art and Dundee University.
 
-I enjoy working with clients to establish an initial brief that ensures that they can achieve exactly what they require. This would be a building that utilises space and materials in imaginative and resourceful ways, providing a budget conscious and energy efficient solution that satisfies the client’s established needs. It can also, where required, provide the flexibility to deliver adaptable or extendable solutions for future requirements.
+John is married to Rosemary and they have 2 children. He enjoys (mostly watching nowadays) all sport and has been involved in years past in rugby, clay shooting, golf and curling. He is also interested in music and photography.
 
-The intention is always to create satisfied clients by providing them with realistic, sensible solutions for all projects, large or small.
+John has been a Rotarian for 30 years and is a Past President of the Rotary Club of North Fife, having originally been a member in Cupar. He is a past Assistant Governor of Rotary International District 1010 : Scotland - North, and has served on the District Executive and Committees since 2001. He is currently District New Club Formation Officer. He also serves on the Membership, Retention & Development Committee for RIBI (Rotary in Great Britain & Ireland).
+
+[RIAS Profile](http://www.rias.org.uk/directory/practices/john-brewster-architect/)
+
