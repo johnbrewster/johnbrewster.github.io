@@ -7,3 +7,5 @@ h1_tag_text: John Brewster Architect
 include: ['_pages']
 
 exclude: ["Procfile", "Gruntfile.js", "README.md", "package.json", "CNAME", "node_modules"]
+
+encoding: UTF-8
