@@ -161,12 +161,12 @@ header {
   margin: 2em 0;
 }
 
-header#logo {
+header div#logo {
   display: inline-block;
   width: 33%;
 }
 
-header#title {
+header div#title {
   font-size: 1.4em;
   display: inline-block;
   width: 66%;
@@ -183,12 +183,12 @@ small {
   opacity: 0.4;
 }
 
-nav#sidebar ul {
+nav sidebar ul {
   text-align: center;
   list-style: none;
 } 
 
-nav#sidebar li {
+nav sidebar li {
   display: inline;
   padding-left: 1em;
   padding-right: 1em;
@@ -199,22 +199,22 @@ nav#sidebar li {
   box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);
 }
 
-nav#sidebar a li {
+nav sidebar a li {
   color: white;
 }
 
 @media (min-width: 53rem) {
-  nav#sidebar {
+  nav sidebar {
     display: inline-block;
 	width: 33%;
     vertical-align: top;
 	text-align: right;
   }
-  nav#sidebar ul {
+  nav sidebar ul {
     text-align: left;
     display: inline-block;
   }
-  nav#sidebar li {
+  nav sidebar li {
     display: list-item;
 	margin: 0 0 1em 0;
   }
