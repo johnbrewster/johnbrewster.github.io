@@ -180,6 +180,7 @@ span#titlename {
 small {
   font-size: 0.7rem;
   text-align: center;
+  opacity: 0.4;
 }
 
 #sidebar ul {
