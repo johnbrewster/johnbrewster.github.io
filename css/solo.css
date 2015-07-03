@@ -157,20 +157,22 @@ code {
   padding: 0 1rem;
 }
 
-#header {
+div#header {
   margin: 2em 0;
 }
 
-#logo, #title {
+div#logo {
   display: inline-block;
-  width: 50%;
+  width: 33%;
 }
 
-#title {
+div#title {
+  display: inline-block;
+  width: 66%;
   text-align: right;
 }
 
-#titlename {
+span#titlename {
   font-weight: bold;
 }
 
@@ -207,6 +209,7 @@ small {
   #sidebar {
     display: inline-block;
     vertical-align: top;
+	text-align: right;
   }
   #sidebar ul {
     text-align: left;
