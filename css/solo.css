@@ -220,7 +220,7 @@ small {
   
   #main {
     display: inline-block;
-    max-width: 66%;
-	padding: 0 2em;
+    max-width: 64%;
+	padding: 0 0 0 1em;
   }
 }
