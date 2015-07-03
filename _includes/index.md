@@ -1,13 +1,12 @@
-<div>John Brewster Architect  
+John Brewster Architect  
 Kirkholm  
 Kirkton of Kinnettles  
 Forfar  
 Angus  
-DD8 1TQ  </div>
+DD8 1TQ  
 
-<div>[01307 820273](tel:01307820273)<br>
-[07767 227606](tel:07767227606)<br>
-[brewster@btinternet.com](mailto:brewster@btinternet.com)  </div>
+[01307 820273](tel:01307820273)  
+[07767 227606](tel:07767227606)  
+[brewster@btinternet.com](mailto:brewster@btinternet.com)
 
-
-<small>Site by [WebNetTech](http://webnette.ch)</small>
+![](images/fp_house.png)
