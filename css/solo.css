@@ -90,7 +90,8 @@ p, ul, ol, dl, table, pre, blockquote {
 }
 
 ul, ol {
-  padding-left: 1.5rem;
+  padding-left: 0.5rem;
+  padding-right: 1em;
 }
 
 dd {
@@ -170,7 +171,16 @@ small {
   display: inline;
   padding-left: 1em;
   padding-right: 1em;
-} 
+  background: #666666;
+  border: black 1px solid;
+  -moz-box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);
+  -webkit-box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);
+  box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);
+}
+
+#sidebar li a {
+  color: white;
+}
 
 #main {
   font-size: 0.9em;
@@ -187,6 +197,7 @@ small {
   }
   #sidebar li {
     display: list-item;
+	margin: 0 0 1em 0;
   }
   
   #main {
