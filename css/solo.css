@@ -157,6 +157,10 @@ code {
   padding: 0 1rem;
 }
 
+#header {
+  margin: 2em;
+}
+
 small {
   font-size: 0.7rem;
   text-align: center;
