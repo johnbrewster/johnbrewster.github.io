@@ -13,26 +13,25 @@
 </head>
 <body>
   <div class="container">
-    <div id="header">
+    <header>
 	  <div id="logo"><a href="{{ site.baseurl }}"><img src="{{ site.baseurl }}/images/jba_logo_2015.png" alt="John Brewster Architect"></a></div>
 	  <div id="title"><span id="titlename">John Brewster</span> B.Arch(Hons) FRIAS RIBA</div>
-	</div>
+	</header>
 	<hr>
-    <div id="sidebar">
+    <nav>
       <ul class="sidebar-nav">
         <a href="{{ site.baseurl }}/about"><li>About</li></a>
         <a href="{{ site.baseurl }}/services"><li>Services</li></a>
 	<!-- <a href="{{ site.baseurl }}/projects"><li>Projects</li></a> -->
         <a href="{{ site.baseurl }}/contact"><li>Contact</li></a>
       </ul>
-    </div>
-    <div id="main">
+    </nav>
+    <main>
       {{ content }}
-    </div>
+    </main>
 	<hr>
   </div>
-
-  <small>Site by <a href="http://webnette.ch">WebNetTech</a></small>
+  <footer><small>Site by <a href="http://webnette.ch">WebNetTech</a></small></footer>
   {% include scripts.html %}
 </body>
 </html>
