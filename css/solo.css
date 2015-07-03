@@ -183,12 +183,12 @@ small {
   opacity: 0.4;
 }
 
-nav sidebar ul {
+nav ul {
   text-align: center;
   list-style: none;
 } 
 
-nav sidebar li {
+nav li {
   display: inline;
   padding-left: 1em;
   padding-right: 1em;
