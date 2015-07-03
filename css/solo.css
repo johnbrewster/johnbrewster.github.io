@@ -152,13 +152,26 @@ code {
 }
 
 .container {
-  max-width: 36rem;
+  max-width: 50rem;
   margin: 0 auto;
   padding: 0 1rem;
 }
 
 #header {
-  margin: 2em;
+  margin: 2em 0;
+}
+
+#logo, #title {
+  display: inline-block;
+  width: 50%;
+}
+
+#title {
+  text-align: right;
+}
+
+#titlename {
+  font-weight: bold;
 }
 
 small {
