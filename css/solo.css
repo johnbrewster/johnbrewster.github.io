@@ -167,6 +167,7 @@ div#logo {
 }
 
 div#title {
+  font-size: 1.4em;
   display: inline-block;
   width: 66%;
   text-align: right;
@@ -201,13 +202,10 @@ small {
   color: white;
 }
 
-#main {
-  font-size: 0.9em;
-}
-
 @media (min-width: 53rem) {
   #sidebar {
     display: inline-block;
+	width: 33%;
     vertical-align: top;
 	text-align: right;
   }
@@ -222,6 +220,7 @@ small {
   
   #main {
     display: inline-block;
-    max-width: 78%;
+    max-width: 66%;
+	padding: 0 2em;
   }
 }
