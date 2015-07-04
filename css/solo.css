@@ -9,6 +9,7 @@ body {
   margin: 2rem 0 5rem;
   color: #333;
   background: url("background.png");
+  overflow-y: scroll;
 }
 
 a {
@@ -144,6 +145,7 @@ small {
 nav ul {
   text-align: center;
   list-style: none;
+  padding: 0;
 } 
 
 nav li {
