@@ -199,11 +199,7 @@ footer {
   }
 }
 
-@media (max-width: 470px) {
-  nav {
-    overflow-x: hidden;
-  }
-  
+@media (max-width: 470px) { 
   nav ul {
     width: 110vw;
     left: -10vw;
