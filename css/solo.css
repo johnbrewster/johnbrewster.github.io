@@ -200,6 +200,10 @@ footer {
 }
 
 @media (max-width: 470px) {
+  nav {
+    overflow-x: hidden;
+  }
+  
   nav ul {
     width: 110vw;
     left: -10vw;
@@ -226,11 +230,13 @@ footer {
     vertical-align: top;
 	text-align: right;
   }
+  
   nav ul {
     text-align: left;
     display: inline-block;
   }
-  nav ul li {
+  
+  nav ul a li {
     display: list-item;
 	margin: 0 0 1em 0;
   }
