@@ -92,6 +92,10 @@ hr {
   box-shadow: rgba(115, 115, 115, 0.78) 8px -8px 13px;
 }
 
+p img {
+  border: 2px black solid;
+}
+
 .container img, .container iframe {
   max-width: 100%;
 }
