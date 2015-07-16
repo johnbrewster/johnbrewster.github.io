@@ -86,7 +86,7 @@ hr {
   border: none;
   margin: 1.5rem 0;
   position: relative;
-  top: -1px;
+  top: top: -2.5em;
   border-top: 10px solid #7E7E7E;
   border-bottom: 2px black solid;
   box-shadow: rgba(115, 115, 115, 0.78) 8px -8px 13px;
@@ -145,7 +145,7 @@ span#titlename {
 }
 
 span#titleletters {
-  font-size: smaller;
+  font-size: small;
   color: grey;
 }
 
