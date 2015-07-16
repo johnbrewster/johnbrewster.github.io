@@ -3,7 +3,7 @@ permalink: "/services/"
 layout: default
 ---
 
-I can provide professional planning, management and support for all phases of your building project. The following is a selection of the services I can provide.
+I can help you with professional planning, management and support for all phases of your building project. The following is a selection of the services I can provide.
 
 ### Architectural Consultancy
 * feasibility studies
