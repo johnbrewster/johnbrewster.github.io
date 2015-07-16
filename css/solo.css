@@ -12,6 +12,10 @@ body {
   overflow-y: scroll;
 }
 
+header #logo {
+  box-shadow: rgba(115, 115, 115, 0.78) 8px -8px 13px;
+}
+
 a {
   color: #0074d9; /* From http://clrs.cc */
   text-decoration: none;
@@ -83,6 +87,7 @@ hr {
   top: -1px;
   border-top: 10px solid #7E7E7E;
   border-bottom: 2px black solid;
+  box-shadow: rgba(115, 115, 115, 0.78) 8px -8px 13px;
 }
 
 .container img, .container iframe {
