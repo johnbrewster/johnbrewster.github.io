@@ -79,9 +79,10 @@ blockquote p:last-child {
 hr {
   border: none;
   margin: 1.5rem 0;
-  border-bottom: 1px solid #ccc;
   position: relative;
   top: -1px;
+  border-top: 10px solid #7E7E7E;
+  border-bottom: 2px black solid;
 }
 
 .container img, .container iframe {
