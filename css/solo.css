@@ -185,6 +185,7 @@ nav ul a:hover {
 
 footer {
   text-align: center;
+  margin-top: 2em;
 }
 
 @media (min-width: 36rem) {
