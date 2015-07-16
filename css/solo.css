@@ -142,6 +142,11 @@ span#titlename {
   font-weight: bold;
 }
 
+span#titleletters {
+  font-size: smaller;
+  color: grey;
+}
+
 small {
   font-size: 0.7rem;
   text-align: center;
