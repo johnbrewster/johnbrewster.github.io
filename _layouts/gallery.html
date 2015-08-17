@@ -9,6 +9,22 @@
   <link rel="stylesheet" href="{{ site.baseurl }}/css/normalize.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/css/solo.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+  <script src="js/galleria/galleria-1.4.2.js"></script>
+  <script src="js/galleria/plugins/facebook/galleria.facebook.js"></script>
+  <script>
+	Galleria.loadTheme('js/galleria/themes/classic/galleria.classic.min.js');
+	Galleria.run('#galleria', {
+	 facebook: 'album:885447591539689',
+	 width: 745,
+	 height: 550,
+	 lightbox: true,
+	 facebookOptions: {
+	   max: 30, // optional override for limit of 40 photos on an album
+	   facebook_access_token: '1023842027639418|5Q9gmuIRmoFH5utNa-KTYki9EDI'
+	 }
+	});
+	</script>
 {% include head.html %}
 </head>
 <body>
@@ -30,7 +46,7 @@
       </ul>
     </nav>
     <main>
-      {{ content }}
+      <div id="galleria"></div>
     </main>
   </div>
   <footer><small>Site by <a href="http://webnette.ch">WebNetTech</a></small></footer>
