@@ -9,6 +9,23 @@
   <link rel="stylesheet" href="{{ site.baseurl }}/css/normalize.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/css/solo.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+  <script src="js/galleria/galleria-1.4.min.js"></script>
+  <script src="js/galleria/plugins/facebook/galleria.facebook.js"></script>
+  <script>
+	Galleria.loadTheme('js/galleria/themes/classic/galleria.classic.min.js');
+	Galleria.run('#galleria', {
+	 facebook: 'album:291489504249941',
+	 width: 745,
+	 height: 550,
+	 lightbox: true,
+	 facebookOptions: {
+	   max: 30, // optional override for limit of 40 photos on an album
+	   facebook_access_token: 'YOUR_ACCESS_TOKEN_FROM_STEP_2'
+	 }
+	});
+	</script>
+<div id="galleria"></div>
 {% include head.html %}
 </head>
 <body>
@@ -25,7 +42,7 @@
         <a href="{{ site.baseurl }}/services"><li>Services</li></a>
 	<!-- <a href="{{ site.baseurl }}/projects"><li>Projects</li></a> -->
         <a href="{{ site.baseurl }}/contact"><li>Contact</li></a>
-		<a href="http://www.rias.org.uk/directory/practices/john-brewster-architect/" target="_blank"><li>RIAS Profile</li></a>
+		<a href="http://www.rias.org.uk/directory/practices/john-brewster-architect/" target="_blank"><li><img src="images/rias_logo.png" alt="RIAS Profile"></li></a>
       </ul>
     </nav>
     <main>
