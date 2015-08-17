@@ -258,6 +258,10 @@ footer {
     padding: 0.6em 1em 0 1.5em;
   }
   
+  img[src*="rias_logo.png"] {
+    margin: 1em;
+}
+
   main {
     display: inline-block;
     max-width: 64%;
