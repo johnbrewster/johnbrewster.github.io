@@ -183,6 +183,10 @@ nav ul a:hover {
   text-decoration: none;
 }
 
+img[src*="rias_logo.png"] {
+    margin-top: 1.3em;
+}
+
 footer {
   text-align: center;
   margin-top: 2em;
@@ -257,10 +261,6 @@ footer {
   ul, ol {
     padding: 0.6em 1em 0 1.5em;
   }
-  
-  img[src*="rias_logo.png"] {
-    margin: 1em;
-}
 
   main {
     display: inline-block;
