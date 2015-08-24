@@ -8,15 +8,12 @@ Please enjoy some of these web pages and assorted links:
 *Helpful Links*  
 [Scottish Building Standards](http://www.gov.scot/Topics/Built-Environment/Building/Building-standards)  
 
-*Family Links*  
-[Team Brewster](https://www.facebook.com/pages/Team-Brewster/758729060851763)  
-
 *Architectural Magazines*  
 [RIBA Journal](https://www.ribaj.com)  
 [Architects' Journal](https://www.architectsjournal.co.uk)  
-[Architecture Today ](https://www.architecturetoday.co.uk)  
-[The Architectural Review](https://www.architectural-review.com)  
-[Building Design](https://www.bdonline.co.uk)  
+[Architecture Today ](http://www.architecturetoday.co.uk)  
+[The Architectural Review](http://www.architectural-review.com)  
+[Building Design](http://www.bdonline.co.uk)  
 
 *Architecture, Design, News & Blogs*  
 [Icon Magazine](http://www.iconeye.com)  
@@ -25,7 +22,7 @@ Please enjoy some of these web pages and assorted links:
 [The Architecture Blog](http://www.architectureblog.tumblr.com)  
 [BUILD Blog](http://blog.buildllc.com)  
 [Archinect](http://www.archinect.com)  
-[Freshome](https://www.freshome.com)  
+[Freshome](http://www.freshome.com)  
 [Arch Daily](http://www.archdaily.com)  
 
 *Architectural Websites*  
@@ -49,7 +46,7 @@ Please enjoy some of these web pages and assorted links:
 [Rotary International in Great Britain & Ireland](http://www.rotarygbi.org)  
 [Rotary International](http://www.rotary.org)  
 [Rotary Club of North Fife](http://www.northfiferotary.org.uk)  
-[Rotary District 1010 Scotland North](http://www.rotary-ribi.org/districts/homepage.php?DistrictNo=1010)
+[Rotary District 1010 Scotland North](http://www.rotary-ribi.org/districts/homepage.php?DistrictNo=1010)  
 [End Polio Now](http://www.endpolio.org)
 
 *Facebook*  
