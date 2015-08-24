@@ -11,9 +11,13 @@
   <link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/css/solo.css">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-  <script src="http://johnbrewster.net/js/galleria/galleria-1.4.2.js"></script>
-  <script src="http://johnbrewster.net/js/galleria/plugins/facebook/galleria.facebook.js"></script>
-  <script>
+  <script src="https://johnbrewster.net/js/galleria/galleria-1.4.2.js"></script>
+  <script src="https://johnbrewster.net/js/galleria/plugins/facebook/galleria.facebook.js"></script>
+  <script type="text/javascript">
+    var host = "yoursite.com";
+    if ((host == window.location.host) && (window.location.protocol != "https:"))
+        window.location.protocol = "https";
+
 	Galleria.loadTheme('http://johnbrewster.net/js/galleria/themes/classic/galleria.classic.min.js');
 	Galleria.run('#galleria', {
 	 facebook: 'album:885447591539689',
@@ -25,7 +29,7 @@
 	   facebook_access_token: '1023842027639418|5Q9gmuIRmoFH5utNa-KTYki9EDI'
 	 }
 	});
-	</script>
+    </script>
 {% include head.html %}
 </head>
 <body>
