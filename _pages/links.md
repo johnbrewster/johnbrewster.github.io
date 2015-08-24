@@ -33,7 +33,7 @@ Please enjoy some of these web pages and assorted links:
 [Royal Institute of British Architects](https://www.rias.org.uk)  
 [Architecture.com by RIBA](https://www.architecture.com)  
 
-*Architectural Art* 
+*Architectural Art*  
 [Architecture Sketch Blog](http://architecturesketch.tumblr.com/)  
 [Pinterest - Watercolor Architecture](https://www.pinterest.com/explore/watercolor-architecture)  
 [Stephen Wiltshire](https://www.stephenwiltshire.co.uk)  
