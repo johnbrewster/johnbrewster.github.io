@@ -9,3 +9,6 @@ include: ['_pages']
 exclude: ["Procfile", "Gruntfile.js", "README.md", "package.json", "CNAME", "node_modules"]
 
 encoding: UTF-8
+
+url: https://johnbrewster.net   # with the https protocol
+enforce_ssl: johnbrewster.net   # without any protocol
