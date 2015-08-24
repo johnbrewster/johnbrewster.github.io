@@ -1,6 +1,4 @@
 ---
-permalink: "/portfolio/"
+permalink: "/gallery/"
 layout: gallery
 ---
-
-test
