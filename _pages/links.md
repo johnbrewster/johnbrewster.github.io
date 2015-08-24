@@ -1,4 +1,8 @@
-	
+---
+permalink: "/links/"
+layout: default
+---
+
 Please enjoy some of these web pages and assorted links:
 
 *Helpful Links*  
