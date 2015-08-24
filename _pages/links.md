@@ -18,16 +18,16 @@ Please enjoy some of these web pages and assorted links:
 *Architecture, Design, News & Blogs*  
 [Icon Magazine](http://www.iconeye.com)  
 [Dezeen Magazine](http://www.dezeen.com)  
-[Unhappy Hipsters](http://www.unhappyhipsters.com)  
 [The Architecture Blog](http://www.architectureblog.tumblr.com)  
 [BUILD Blog](http://blog.buildllc.com)  
 [Archinect](http://www.archinect.com)  
 [Freshome](http://www.freshome.com)  
 [Arch Daily](http://www.archdaily.com)  
+[Unhappy Hipsters](http://www.unhappyhipsters.com)  
 
 *Architectural Websites*  
-[Dundee Institute of Architects](https://www.diadundee.wordpress.com)  
-[Royal Institute of British Architects](https://www.rias.org.uk)  
+[Dundee Institute of Architects](https://diadundee.wordpress.com/)  
+[Royal Institute of British Architects](http://www.rias.org.uk)  
 [Architecture.com by RIBA](https://www.architecture.com)  
 
 *Architectural Art*  
@@ -54,7 +54,7 @@ Please enjoy some of these web pages and assorted links:
 [RIBA](https://www.facebook.com/RIBAarchitecture)  
 [RIBA Journal](https://www.facebook.com/RIBAJ.London)  
 [The Royal Caledonian Curling Club](https://www.facebook.com/royalcaledoniancurlingclub)  
-[Team Brewster](https://www.facebook.com/pages/Team-Brewster)  
+[Team Brewster](https://www.facebook.com/pages/Team-Brewster/758729060851763)  
 [Heavy Horse Supplies](https://www.facebook.com/HeavyHorseSupplies)  
 
 *Twitter*  
