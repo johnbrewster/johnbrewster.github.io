@@ -3,6 +3,8 @@ permalink: "/about/"
 layout: default
 title: About John
 ---
+![](https://johnbrewster.net/images/john_brewster_about.jpg)
+
 John was born and brought up at Bandirran, the family farm near Ceres, Fife. This was a dairy and arable farm and was also home to a successful stud of Clydesdale horses. John was educated at Ceres Primary then Bell Baxter High School in Cupar, before studying Architecture at Duncan of Jordanstone College of Art and Dundee University.
 
 After graduation, he worked with L.A.Rolland & Partners/Robert Hurd & Partners in Leven, Burntisland and Edinburgh. John started his own practice in Cupar in 1982 and he is a Fellow of the Royal Incorporation of Architects in Scotland. 
