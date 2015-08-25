@@ -110,6 +110,7 @@ p img {
 
 img[src*="john_brewster_about"] {
   margin: 0 1em;
+  float: right;
 }
 
 table {
@@ -256,9 +257,10 @@ footer {
 
   nav {
     display: inline-block;
-	width: 33%;
+    width: 31%;
+    margin-right: 1em;
     vertical-align: top;
-	text-align: right;
+    text-align: right;
   }
   
   nav ul {
