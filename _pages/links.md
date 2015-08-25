@@ -9,54 +9,54 @@ Please enjoy some of these web pages and assorted links:
 <a href="http://www.gov.scot/Topics/Built-Environment/Building/Building-standards" target="_blank">Scottish Building Standards</a>
 
 *Architectural Magazines*  
-[RIBA Journal](https://www.ribaj.com)  
-[Architects' Journal](https://www.architectsjournal.co.uk)  
-[Architecture Today ](http://www.architecturetoday.co.uk)  
-[The Architectural Review](http://www.architectural-review.com)  
-[Building Design](http://www.bdonline.co.uk)  
+<a href="https://www.ribaj.com" target="_blank">RIBA Journal</a>  
+<a href="https://www.architectsjournal.co.uk" target="_blank">Architects' Journal</a>  
+<a href="http://www.architecturetoday.co.uk" target="_blank">Architecture Today</a>  
+<a href="http://www.architectural-review.com" target="_blank">The Architectural Review</a>  
+<a href="http://www.bdonline.co.uk" target="_blank">Building Design</a>  
 
 *Architecture, Design, News & Blogs*  
-[Icon Magazine](http://www.iconeye.com)  
-[Dezeen Magazine](http://www.dezeen.com)  
-[The Architecture Blog](http://www.architectureblog.tumblr.com)  
-[BUILD Blog](http://blog.buildllc.com)  
-[Archinect](http://www.archinect.com)  
-[Freshome](http://www.freshome.com)  
-[Arch Daily](http://www.archdaily.com)  
-[Unhappy Hipsters](http://www.unhappyhipsters.com)  
+<a href="http://www.iconeye.com" target="_blank">Icon Magazine</a>  
+<a href="http://www.dezeen.com" target="_blank">Dezeen Magazine</a>  
+<a href="http://www.architectureblog.tumblr.com" target="_blank">The Architecture Blog</a>  
+<a href="http://blog.buildllc.com" target="_blank">BUILD Blog</a>  
+<a href="http://www.archinect.com" target="_blank">Archinect</a>  
+<a href="http://www.freshome.com" target="_blank">Freshome</a>  
+<a href="http://www.archdaily.com" target="_blank">Arch Daily</a>  
+<a href="http://www.unhappyhipsters.com" target="_blank">Unhappy Hipsters</a>  
 
 *Architectural Websites*  
-[Dundee Institute of Architects](https://diadundee.wordpress.com/)  
-[Royal Institute of British Architects](http://www.rias.org.uk)  
-[Architecture.com by RIBA](https://www.architecture.com)  
+<a href="https://diadundee.wordpress.com/" target="_blank">Dundee Institute of Architects</a>  
+<a href="http://www.rias.org.uk" target="_blank">Royal Institute of British Architects</a>  
+<a href="https://www.architecture.com" target="_blank">Architecture.com by RIBA</a>  
 
 *Architectural Art*  
-[Architecture Sketch Blog](http://architecturesketch.tumblr.com/)  
-[Pinterest - Watercolor Architecture](https://www.pinterest.com/explore/watercolor-architecture)  
-[Stephen Wiltshire](https://www.stephenwiltshire.co.uk)  
+<a href="http://architecturesketch.tumblr.com/" target="_blank">Architecture Sketch Blog</a>  
+<a href="https://www.pinterest.com/explore/watercolor-architecture" target="_blank">Pinterest - Watercolor Architecture</a>  
+<a href="https://www.stephenwiltshire.co.uk" target="_blank">Stephen Wiltshire</a>  
 
 *Miscellaneous*  
-[The Clydesdale Horse Society](http:/www.clydesdalehorsesociety.com)  
-[Heavy Horse Supplies](http://www.heavyhorsesupplies.co.uk/)  
-[A Ranking of Budweiser's Best Clydesdale Ads](http://www.zimbio.com/A+Ranking+of+Budweiser's+Best+Clydesdale+Ads/articles)  
-[The Royal Caledonian Curling Club](http://www.royalcaledoniancurlingclub.org)  
-[The British & Irish Lions](http://www.lionsrugby.com)  
+<a href="http:/www.clydesdalehorsesociety.com" target="_blank">The Clydesdale Horse Society</a>  
+<a href="http://www.heavyhorsesupplies.co.uk/" target="_blank">Heavy Horse Supplies</a>  
+<a href="http://www.zimbio.com/A+Ranking+of+Budweiser's+Best+Clydesdale+Ads/articles" target="_blank">A Ranking of Budweiser's Best Clydesdale Ads</a>  
+<a href="http://www.royalcaledoniancurlingclub.org" target="_blank">The Royal Caledonian Curling Club</a>  
+<a href="http://www.lionsrugby.com" target="_blank">The British & Irish Lions</a>  
  
 *Rotary*  
-[Rotary International in Great Britain & Ireland](http://www.rotarygbi.org)  
-[Rotary International](http://www.rotary.org)  
-[Rotary Club of North Fife](http://www.northfiferotary.org.uk)  
-[Rotary District 1010 Scotland North](http://www.rotary-ribi.org/districts/homepage.php?DistrictNo=1010)  
-[End Polio Now](http://www.endpolio.org)
+<a href="http://www.rotarygbi.org" target="_blank">Rotary International in Great Britain & Ireland</a>  
+<a href="http://www.rotary.org" target="_blank">Rotary International</a>  
+<a href="http://www.northfiferotary.org.uk" target="_blank">Rotary Club of North Fife</a>  
+<a href="http://www.rotary-ribi.org/districts/homepage.php?DistrictNo=1010" target="_blank">Rotary District 1010 Scotland North</a>  
+<a href="http://www.endpolio.org" target="_blank">End Polio Now</a>
 
 *Facebook*  
-[RIAS](https://www.facebook.com/RIASorg)  
-[RIBA](https://www.facebook.com/RIBAarchitecture)  
-[RIBA Journal](https://www.facebook.com/RIBAJ.London)  
-[The Royal Caledonian Curling Club](https://www.facebook.com/royalcaledoniancurlingclub)  
-[Team Brewster](https://www.facebook.com/pages/Team-Brewster/758729060851763)  
-[Heavy Horse Supplies](https://www.facebook.com/HeavyHorseSupplies)  
+<a href="https://www.facebook.com/RIASorg" target="_blank">RIAS</a>  
+<a href="https://www.facebook.com/RIBAarchitecture" target="_blank">RIBA</a>  
+<a href="https://www.facebook.com/RIBAJ.London" target="_blank">RIBA Journal</a>  
+<a href="https://www.facebook.com/royalcaledoniancurlingclub" target="_blank">The Royal Caledonian Curling Club</a>  
+<a href="https://www.facebook.com/pages/Team-Brewster/758729060851763" target="_blank">Team Brewster</a>  
+<a href="https://www.facebook.com/HeavyHorseSupplies" target="_blank">Heavy Horse Supplies</a>  
 
 *Twitter*  
-[Team Brewster](http://www.twitter.com/team_brewster)  
-[Rotary Club of North Fife](http://www.twitter.com/northfiferotary)  
+<a href="http://www.twitter.com/team_brewster" target="_blank">Team Brewster</a>  
+<a href="http://www.twitter.com/northfiferotary" target="_blank">Rotary Club of North Fife</a>  
