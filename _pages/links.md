@@ -6,7 +6,7 @@ layout: default
 Please enjoy some of these web pages and assorted links:
 
 *Helpful Links*  
-[Scottish Building Standards](http://www.gov.scot/Topics/Built-Environment/Building/Building-standards)  
+<a href="http://www.gov.scot/Topics/Built-Environment/Building/Building-standards" target="_blank">Scottish Building Standards</a>
 
 *Architectural Magazines*  
 [RIBA Journal](https://www.ribaj.com)  
