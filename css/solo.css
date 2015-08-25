@@ -108,11 +108,6 @@ p img {
   display: block;
 }
 
-img[src*="john_brewster_about"] {
-  margin: 0 1em;
-  float: right;
-}
-
 table {
   width: 100%;
   border: 1px solid #ccc;
@@ -229,8 +224,14 @@ footer {
     font-size: 1.1rem;
     margin-bottom: 0.5rem;
   }
+  
   h2:nth-of-type(3n) {
     margin-bottom: 1.5rem;
+  }
+  
+  img[src*="john_brewster_about"] {
+    margin: 0 1em;
+    float: right;
   }
 }
 
@@ -270,7 +271,7 @@ footer {
   
   nav ul a li {
     display: list-item;
-	margin: 0 0 1em 0;
+    margin: 0 0 1em 0;
   }
   
   ul, ol {
