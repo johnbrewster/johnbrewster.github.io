@@ -108,6 +108,10 @@ p img {
   display: block;
 }
 
+img[src*="john_brewster_about"] {
+  margin: 0 1em;
+}
+
 table {
   width: 100%;
   border: 1px solid #ccc;
