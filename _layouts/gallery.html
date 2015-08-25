@@ -19,7 +19,8 @@
         window.location.protocol = "https";
 
 	Galleria.loadTheme('https://johnbrewster.net/js/galleria/themes/classic/galleria.classic.min.js');
-	Galleria.run('#galleria', {
+	
+	Galleria.run('#galleria-ext-conv', {
 	 facebook: 'album:885447591539689',
 	 width: 745,
 	 height: 550,
@@ -29,6 +30,40 @@
 	   facebook_access_token: '1023842027639418|5Q9gmuIRmoFH5utNa-KTYki9EDI'
 	 }
 	});
+	
+	Galleria.run('#galleria-residential', {
+	 facebook: 'album:885455224872259',
+	 width: 745,
+	 height: 550,
+	 lightbox: true,
+	 facebookOptions: {
+	   max: 40, // optional override for limit of 40 photos on an album
+	   facebook_access_token: '1023842027639418|5Q9gmuIRmoFH5utNa-KTYki9EDI'
+	 }
+	});
+	
+	Galleria.run('#galleria-commercial', {
+	 facebook: 'album:885455844872197',
+	 width: 745,
+	 height: 550,
+	 lightbox: true,
+	 facebookOptions: {
+	   max: 40, // optional override for limit of 40 photos on an album
+	   facebook_access_token: '1023842027639418|5Q9gmuIRmoFH5utNa-KTYki9EDI'
+	 }
+	});
+	
+	Galleria.run('#galleria-new-build', {
+	 facebook: 'album:885444804873301',
+	 width: 745,
+	 height: 550,
+	 lightbox: true,
+	 facebookOptions: {
+	   max: 40, // optional override for limit of 40 photos on an album
+	   facebook_access_token: '1023842027639418|5Q9gmuIRmoFH5utNa-KTYki9EDI'
+	 }
+	});
+	
     </script>
 {% include head.html %}
 </head>
@@ -51,7 +86,17 @@
       </ul>
     </nav>
     <main>
-      <div id="galleria"></div>
+      <h2>Conversions and Extensions</h2>
+      <div class="gallery" id="galleria-ext-conv"></div>
+      
+      <h2>Residential Developments</h2>
+      <div class="gallery" id="galleria-residential"></div>
+      
+      <h2>Commercial Projects</h2>
+      <div class="gallery" id="galleria-commercial"></div>
+      
+      <h2>New Build Houses</h2>
+      <div class="gallery" id="galleria-new-build"></div>
     </main>
   </div>
   <footer><small>Site by WebNetTech</small></footer>
